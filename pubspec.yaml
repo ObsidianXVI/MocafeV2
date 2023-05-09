@@ -1,0 +1,13 @@
+name: mocafe
+description: Mocafe is a fully automated cafe looking to improve its operations through autonomic computing.s
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies:
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
